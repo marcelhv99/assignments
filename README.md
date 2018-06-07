@@ -12,4 +12,5 @@ Assignments Programming Marcel van Hoorn
 ## Exam assignments
 [Python Exam](https://github.com/marcelhv99/assignments/blob/master/exam_june_7_2018.ipynb)
 
+[R Exam](https://github.com/marcelhv99/assignments/blob/master/Exam_student.ipynb)
 
